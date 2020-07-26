@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="/css/app.css" />
     <script type="text/javascript" src="/js/script.js">
     </script>
-</head>
+</head> 
 <body>
     <div id="main">
         <form name="form" action="{{route('response')}}" method="post">
